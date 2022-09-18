@@ -6,5 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: Echo a String
-        run: echo "This is the github actions trigger file"
+       run: echo "This is the github actions trigger file"
   
